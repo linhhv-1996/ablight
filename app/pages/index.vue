@@ -345,8 +345,6 @@
     <section id="about-us" class="container max-w-6xl py-16 text-center">
         <h2 class="text-2xl md:text-3xl font-semibold">Meet the Creator</h2>
         <div class="mt-8 flex flex-col items-center">
-            <img src="https://picsum.photos/200/200" alt="Your Name"
-                class="w-32 h-32 rounded-full object-cover border-4 border-brand-light animate-on-scroll">
             <h3 class="mt-4 text-xl font-semibold text-zinc-100 animate-on-scroll" style="transition-delay: 100ms;">Max/Wang</h3>
             <p class="text-sm text-zinc-400 animate-on-scroll" style="transition-delay: 200ms;">Founder & Indie Hacker
             </p>
