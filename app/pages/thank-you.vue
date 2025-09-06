@@ -68,7 +68,7 @@
                         </ul>
                     </div>
                     
-                    <a href="YOUR_STRIPE_OR_GUMROAD_PAYMENT_LINK" target="_blank"
+                    <a href="https://buy.polar.sh/polar_cl_3QoTAHVuaR40Vzapshn4VDl8TQ1N7bT1NAyXu1dLyWS" target="_blank"
                         class="block w-full rounded-xl bg-brand-light py-3 px-6 text-lg font-semibold text-zinc-900 shadow-glow transition-colors hover:bg-emerald-300">
                         Become a Founding Member ($49)
                     </a>
