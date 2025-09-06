@@ -1,0 +1,21 @@
+/* Style for selected radio button labels */
+.radio-option.selected {
+    border-color: #34d399; /* emerald-400 */
+    background-color: rgba(16, 185, 129, 0.1);
+}
+
+.radio-option {
+    transition: all 0.2s ease-in-out;
+}
+
+/* Styles for scroll animation */
+.animate-on-scroll {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.animate-on-scroll.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+}

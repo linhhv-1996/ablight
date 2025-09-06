@@ -1,0 +1,11 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="ablight-gradient" x1="5.5" y1="38" x2="43" y2="11" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#059669"/> <stop offset="1" stop-color="#34d399"/> </linearGradient>
+    </defs>
+    <rect x="10" y="16" width="8" height="22" rx="4" fill="#374151"/> 
+    
+    <rect x="30" y="10" width="8" height="28" rx="4" fill="#10b981"/> 
+
+    <path d="M14 38C20.1667 33.4 33.2 19.9 42 10" stroke="url(#ablight-gradient)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
